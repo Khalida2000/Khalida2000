@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khalida
-- 👀 I’m interested in digital marcketing
+- 👀 I’m interested in digital marketing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
